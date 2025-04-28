@@ -1,0 +1,214 @@
+Call Type,App,Category,Name,Direction,Time,Duration,Date,Day
+Phone,iPhone Regular,Family,JQ,Outgoing,8:30,1 second,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Incoming,8:45,6 minutes,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:29,5 minutes,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:45,28 seconds,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:00,42 seconds,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:06,21 minutes,February 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:30,1 minute,February 3,Monday
+Phone,iPhone Regular,Family,SQ,Canceled,19:45,NA,February 3,Monday
+Phone,iPhone Regular,Family,SQ,Outgoing,11:07,4 seconds,February 4,Tuesday
+Phone,iPhone Regular,Family,SQ,Incoming,11:08,9 minutes,February 4,Tuesday
+Phone,iPhone Regular,Family,SQ,Outgoing,13:21,2 minutes,February 4,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:26,7 minutes,February 4,Tuesday
+Phone,iPhone Regular,Family,SQ,Outgoing,18:26,44 seconds,February 4,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:15,11 minutes,February 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,14:12,2 minutes,February 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:55,4 minutes,February 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Incoming,16:18,30 seconds,February 5,Wednesday
+Phone,iPhone Regular,Family,SQ,Incoming,7:27,4 minutes,February 6,Thursday
+Video,iPhone Regular,Family,SQ,Missed,21:07,NA,February 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:57,7 minutes,February 7,Friday
+Phone,iPhone Regular,Family,SQ,Incoming,14:05,11 minutes,February 7,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:01,3 minutes,February 7,Friday
+Phone,iPhone Regular,Family,SQ,Incoming,11:01,5 minutes,February 8,Saturday
+Phone,iPhone Regular,Family,SQ,Outgoing,12:35,1 second,February 8,Saturday
+Phone,iPhone Regular,Family,TG,Outgoing,12:36,1 minute,February 8,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:38,2 minutes,February 8,Saturday
+Phone,iPhone Regular,Family,SQ,Incoming,12:46,2 minutes,February 8,Saturday
+Phone,iPhone Regular,Business,Wainwright,Outgoing,15:41,1 minute,February 8,Saturday
+Phone,iPhone Regular,Friend,MH,Incoming,18:39,1 minute,February 8,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,22:18,2 minutes,February 8,Saturday
+Phone,iPhone Regular,Family,JQ,Incoming,9:16,24 seconds,February 9,Sunday
+Phone,iPhone Regular,Family,PatQ,Incoming,9:22,1 minute,February 9,Sunday
+Phone,iPhone Regular,Family,PatQ,Incoming,9:32,22 seconds,February 9,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:03,24 seconds,February 9,Sunday
+Phone,iPhone Regular,Friend,DL,Incoming,15:44,8 minutes,February 9,Sunday
+Phone,iPhone Regular,Friend,MH,Incoming,20:27,2 minutes,February 9,Sunday
+Phone,iPhone Regular,Friend,MH,Incoming,20:31,9 minutes,February 9,Sunday
+Video,iPhone Regular,Family,SQ,Incoming,22:07,56 minutes,February 9,Sunday
+Video,iPhone Regular,Family,TG,Incoming,23:03,1 minute,February 9,Sunday
+Phone,iPhone Regular,Business,Elements,Outgoing,12:09,2 minutes,February 10,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:45,20 seconds,February 10,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:37,16 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:49,3 seconds,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:54,3 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:16,9 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,SQ,Missed,13:55,NA,February 11,Tuesday
+Phone,iPhone Regular,Family,SQ,Outgoing,14:54,2 seconds,February 11,Tuesday
+Phone,iPhone Regular,Family,SQ,Outgoing,14:54,2 seconds,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,14:56,3 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,SQ,Incoming,14:59,2 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:04,26 seconds,February 11,Tuesday
+Phone,iPhone Regular,Family,PamQ,Incoming,17:54,21 minutes,February 11,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:57,1 minute,February 11,Tuesday
+Phone,iPhone Regular,Friend,SC,Outgoing,20:33,22 minutes,February 11,Tuesday
+Phone,iPhone Regular,Friend,DL,Outgoing,21:49,30 minutes,February 11,Tuesday
+Phone,WeChat,Bestie,DZ,Outgoing,0:14,22 seconds,February 12,Wednesday
+Video,WeChat,Bestie,DZ,Outgoing,0:43,26 minutes,February 12,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:08,8 minutes,February 12,Wednesday
+Phone ,iPhone Regular,Family,JQ,Incoming,21:23,31 seconds ,February 12,Wednesday
+Video,iPhone Regular,Family,SQ,Missed,21:28,NA,February 12,Wednesday
+Phone,iPhone Regular,Family,JQ,Incoming,22:23,4 minutes,February 12,Wednesday
+Video,iPhone Regular,Family,SQ,Incoming,23:30,18 minutes,February 12,Wednesday
+Phone,iPhone Regular,Business,VMP,Outgoing,16:58,3 minutes,February 13,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:05,4 minutes,February 13,Thursday
+Phone,iPhone Regular,Friend,VT,Incoming,19:51,7 minutes,February 13,Thursday
+Video,iPhone Regular,Family,SQ,Outgoing,22:41,9 minutes,February 13,Thursday
+Phone,iPhone Regular,Family,PamQ,Incoming,9:32,36 seconds,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:09,2 minutes,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:34,31 seconds,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Incoming,13:38,19 minutes,February 14,Friday
+Phone,iPhone Regular,Business,Peloton,Outgoing,16:36,41 seconds,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:38,12 minutes,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:02,1 minute,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Incoming,18:17,11 seconds,February 14,Friday
+Video,iPhone Regular,Family,SQ,Incoming,22:21,11 minutes,February 14,Friday
+Phone,iPhone Regular,Family,JQ,Incoming,8:57,27 seconds,February 15,Saturday
+Video,iPhone Regular,Family,SQ,Incoming,11:25,6 minutes,February 15,Saturday
+Video,iPhone Regular,Family,SQ,Missed,23:42,NA,February 15,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,8:28,6 minutes,February 16,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:17,29 seconds,February 16,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:28,11 seconds,February 16,Sunday
+Phone,iPhone Regular,Family,JQ,Incoming,13:23,25 seconds,February 16,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:34,7 seconds,February 16,Sunday
+Phone,iPhone Regular,Friend,HC,Missed,9:19,NA,February 17,Monday
+Phone,iPhone Regular,Friend,HC,Outgoing,9:19,20 seconds,February 17,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:46,9 minutes,February 17,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:33,3 seconds,February 17,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:34,24 seconds,February 17,Monday
+Phone,iPhone Regular,Family,ASS,Outgoing,19:00,7 seconds,February 17,Monday
+Phone,WhatsApp,Friend,HC,Canceled,12:00,NA,February 18,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:54,1 minute,February 18,Tuesday
+Phone,iPhone Regular,Family,SQ,Outgoing,15:59,57 seconds,February 18,Tuesday
+Phone,iPhone Regular,Family,SQ,Incoming,16:17,12 minutes,February 18,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:52,55 seconds,February 18,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,20:06,11 seconds,February 18,Tuesday
+Video,iPhone Regular,Family,SQ,Missed,22:21,NA,February 18,Tuesday
+Video,iPhone Regular,Family,SQ,Outgoing,22:21,21 minutes,February 18,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:17,12 minutes,February 19,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:32,40 seconds,February 19,Wednesday
+Phone,iPhone Regular,Family,JQ,Incoming,18:12,20 seconds,February 19,Wednesday
+Phone,iPhone Regular,Friend,VT,Incoming,19:36,5 minutes,February 19,Wednesday
+Video,iPhone Regular,Family,SQ,Incoming,21:43,29 minutes,February 19,Wednesday
+Video,iPhone Regular,Family,SQ,Missed,11:37,NA,February 20,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:29,22 minutes,February 20,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:21,7 minutes,February 20,Thursday
+Phone,iPhone Regular,Business,Scarsdale Police,Outgoing,17:42,42 seconds,February 20,Thursday
+Video,iPhone Regular,Family,SQ,Missed,20:36,NA,February 20,Thursday
+Video,iPhone Regular,Family,SQ,Missed,21:36,NA,February 20,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:19,20 minutes,February 21,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:05,30 seconds,February 21,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:30,11 minutes,February 21,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:49,6 minutes,February 21,Friday
+Phone,iPhone Regular,Family,SQ,Outgoing,14:46,3 seconds,February 21,Friday
+Phone,iPhone Regular,Family,SQ,Incoming,14:48,4 minutes,February 21,Friday
+Phone,Kakaotalk,Bestie,JuKim,Outgoing,0:42,10 minutes,February 22,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:02,5 minutes,February 22,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:09,20 seconds,February 22,Saturday
+Phone,iPhone Regular,Friend,KHenk,Outgoing,17:50,21 seconds,February 22,Saturday
+Phone,iPhone Regular,Family,SQ,Canceled,12:00,NA,February 23,Sunday
+Phone,iPhone Regular,Family,SQ,Canceled,12:00,NA,February 23,Sunday
+Phone,iPhone Regular,Family,SQ,Outgoing,12:02,4 seconds,February 23,Sunday
+Phone,iPhone Regular,Family,SQ,Outgoing,12:02,2 minutes,February 23,Sunday
+Phone,iPhone Regular,Friend,VT,Incoming,18:35,36 minutes,February 23,Sunday
+Phone,iPhone Regular,Family,JQ,Incoming,10:39,1 minute,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Incoming,11:06,6 seconds,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,14:10,1 minute,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,14:36,1 second,February 24,Monday
+Phone,iPhone Regular,Family,SQ,Incoming,15:47,8 minutes,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:22,1 minute,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:29,15 minutes,February 24,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:20,24 minutes,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:58,3 seconds,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Incoming,12:00,2 minutes,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:39,2 seconds,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:39,3 seconds,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:39,6 minutes,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:22,5 minutes,February 25,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:34,38 seconds,February 25,Tuesday
+Video,iPhone Regular,Family,SQ,Incoming,22:00,30 minutes,February 25,Tuesday
+Phone,iPhone Regular,Family,SQ,Incoming,0:18,19 minutes,February 26,Wednesay
+Phone,iPhone Regular,Family,JQ,Outgoing,12:44,10 minutes,February 26,Wednesay
+Phone,iPhone Regular,Family,JQ,Outgoing,13:36,2 minutes,February 26,Wednesay
+Video,iPhone Regular,Family,SQ,Incoming,17:18,55 minutes,February 26,Wednesay
+Video,iPhone Regular,Family,SQ,Incoming,22:50,7 minutes,February 26,Wednesay
+Video,iPhone Regular,Family,SQ,Incoming,23:04,57 minutes,February 26,Wednesay
+Phone,iPhone Regular,Family,JQ,Outgoing,10:03,22 minutes,February 27,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:13,1 minute,February 27,Thursday
+Phone,iPhone Regular,Family,JQ,Incoming,17:45,10 minutes,February 27,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:04,3 minutes,February 27,Thursday
+Video,iPhone Regular,Family,SQ,Incoming,21:34,41 minutes,February 27,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:19,7 minutes,February 28,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:40,1 minute,February 28,Friday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:53,23 seconds,February 28,Friday
+Phone,iPhone Regular,Family,SQ,Missed,6:59,NA,March 1,Saturday
+Video,iPhone Regular,Family,SQ,Incoming,10:33,5 minutes,March 1,Saturday
+Video,iPhone Regular,Family,SQ,Missed,22:03,NA,March 1,Saturday
+Video,iPhone Regular,Family,SQ,Incoming,18:01,16 minutes,March 2,Sunday
+Video,iPhone Regular,Family,SQ,Missed,8:42,NA,March 3,Monday
+Phone,iPhone Regular,Family,SQ,Outgoing,8:57,1 minute,March 3,Monday
+Phone,iPhone Regular,Business,Unknown,Outgoing,12:25,23 minutes,March 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,13:06,11 minutes,March 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:34,1 minute,March 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:42,7 minutes,March 3,Monday
+Phone,iPhone Regular,Business,Garth,Outgoing,23:07,1 minute,March 3,Monday
+Phone,iPhone Regular,Business,Garth,Outgoing,23:09,15 seconds,March 3,Monday
+Phone,iPhone Regular,Friend,ND,Incoming,23:09,1 minute,March 3,Monday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:38,10 minutes,March 4,Tuesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:09,2 minutes,March 4,Tuesday
+Phone,iPhone Regular,Friend,KHenk,Outgoing,21:13,8 minutes,March 4,Tuesday
+Phone,iPhone Regular,Family,JQ,Canceled,8:10,NA,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,8:12,10 minutes,March 5,Wednesday
+Phone,iPhone Regular,Business,Flatiron Medical,Missed,9:44,NA,March 5,Wednesday
+Phone,iPhone Regular,Business,Flatiron Medical,Outgoing,10:29,4 minutes,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,12:59,6 seconds,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,15:52,5 minutes,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:01,30 seconds,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:11,9 minutes,March 5,Wednesday
+Phone,iPhone Regular,Family,JQ,Outgoing,16:32,1 minute,March 5,Wednesday
+Video,iPhone Regular,Family,SQ,Incoming,21:10,1 minute,March 5,Wednesday
+Phone,iPhone Regular,Business,Unknown,Missed,11:09,NA,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:15,5 minutes,March 6,Thursday
+Phone,iPhone Regular,Business,Unknown,Outgoing,11:17,3 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:21,4 minutes,March 6,Thursday
+Phone,iPhone Regular,Business,Unknown,Incoming,11:25,3 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,11:29,5 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Canceled,11:38,NA,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Incoming,11:39,7 minutes,March 6,Thursday
+Phone,iPhone Regular,Business,Unknown,Missed,13:34,NA,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,14:38,25 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:09,1 minute,March 6,Thursday
+Phone,iPhone Regular,Friend,VT,Incoming,18:29,22 seconds,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:44,35 seconds,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,18:45,1 minute,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:10,7 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,JQ,Outgoing,19:24,53 seconds,March 6,Thursday
+Phone,iPhone Regular,Friend,VT,Incoming,20:02,9 minutes,March 6,Thursday
+Video,iPhone Regular,Family,SQ,Incoming,20:54,4 minutes,March 6,Thursday
+Phone,iPhone Regular,Family,PQ,Incoming,20:59,12 minutes,March 6,Thursday
+Phone,iPhone Regular,Friend,SC,Outgoing,18:39,2 seconds,March 7,Friday
+Phone,iPhone Regular,Friend,SC,Incoming,18:51,31 minutes,March 7,Friday
+Video,iPhone Regular,Family,SQ,Incoming,21:09,19 seconds,March 7,Friday
+Phone,iPhone Regular,Family,JQ,Incoming,13:48,38 seconds,March 8,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:05,1 second,March 8,Saturday
+Phone,iPhone Regular,Family,JQ,Outgoing,17:05,16 seconds,March 8,Saturday
+Video,iPhone Regular,Family,SQ,Incoming,17:10,1 minute,March 8,Saturday
+Phone,iPhone Regular,Family,JQ,Incoming,8:20,26 seconds,March 9,Sunday
+Phone,iPhone Regular,Family,JQ,Incoming,8:59,32 seconds,March 9,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,9:26,44 seconds,March 9,Sunday
+Phone,iPhone Regular,Family,JQ,Incoming,9:30,16 seconds,March 9,Sunday
+Video,iPhone Regular,Family,SQ,Incoming,19:19,42 minutes,March 9,Sunday
+Phone,iPhone Regular,Family,JQ,Outgoing,22:37,15 minutes,March 9,Sunday
+Phone,iPhone Regular,Family,JQ,Incoming,10:31,8 minutes,March 10,Monday
+Video,Zoom,Family,Family,Outgoing,11:48,20 minutes,March 10,Monday
